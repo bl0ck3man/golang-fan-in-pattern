@@ -1,0 +1,1 @@
+# golang-fan-in-pattern
